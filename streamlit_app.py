@@ -336,4 +336,4 @@ Seed           : {seed}
         st.markdown("---")
         st.subheader("Tahap Enkripsi")
         
-        col1, col2, col3, col4 = st.columns(4
+        col1, col2, col3, col4 = st.columns(4)
